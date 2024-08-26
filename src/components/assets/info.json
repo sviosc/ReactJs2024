@@ -1,0 +1,19 @@
+{
+  "objetivo": {
+    "titulo": "Objetivo",
+    "conteudo": "Meu objetivo é aumentar a visibilidade da empresa e alcance da marca, engajar com o desenvolvimento e promover um desenvolvimento de alta qualidade, trabalhando em equipe de forma ágil e efetiva. Meus pontos fortes são a criatividade para resolução de problemas junto a boas hard e soft skills"
+  },
+  "formacao": {
+    "titulo": "Formação Acadêmica",
+    "subTitulo": "2023 - 2025 | ETEC SALES GOMES",
+    "conteudo": "Técnico em Desenvolvimento de Sistemas"
+  },
+  "projetos": {
+    "titulo": "Projetos",
+    "conteudo": "Desenvolvi um software para gerenciamento de estoque, com foco em e-commerce. Outro projeto foi desenvolvido para um hospital, com foco em gestão de pacientes."
+  },
+  "experiencia": {
+    "titulo": "Experiências",
+    "conteudo": ["React", "Tailwindcss", "Shadcn-ui"]
+  }
+}

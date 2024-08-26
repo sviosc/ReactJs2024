@@ -1,13 +1,7 @@
-import Cabecalho from "./components/Cabecalho";
+import Main from "./components/Main";
 
 const App = () => {
-  return (
-    <div className="flex justify-center items-center bg-slate-900 w-full h-screen">
-      <div className="flex flex-col bg-slate-800 w-7/12 h-full text-slate-200">
-        <Cabecalho />
-      </div>
-    </div>
-  );
+  return <Main className="w-7/12 h-screen bg-zinc-800 text-zinc-200" />;
 };
 
 export default App;
