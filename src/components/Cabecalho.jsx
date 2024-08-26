@@ -1,5 +1,5 @@
 import { Phone, Mail } from "lucide-react";
-import Divisor from "./divisor";
+import Divisor from "./Divisor";
 
 const Cabecalho = () => {
   let cabecalho = {
