@@ -10,7 +10,7 @@ const Cabecalho = () => {
     email: "vinicios@gmail.com",
   };
   return (
-    <div className="flex flex-col items-center w-full h-1/5 mt-8">
+    <div className="flex flex-col items-center w-full mt-8">
       <div className="flex flex-row">
         <img
           src={cabecalho.foto}

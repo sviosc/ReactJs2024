@@ -9,11 +9,17 @@
     "conteudo": "Técnico em Desenvolvimento de Sistemas"
   },
   "projetos": {
-    "titulo": "Projetos",
-    "conteudo": "Desenvolvi um software para gerenciamento de estoque, com foco em e-commerce. Outro projeto foi desenvolvido para um hospital, com foco em gestão de pacientes."
+    "titulo": "Meus Projetos",
+    "conteudo": [
+      "2024 | Sistema de Login",
+      "Projeto realizado para aprofundamento em BackEnd"
+    ]
   },
   "experiencia": {
     "titulo": "Experiências",
-    "conteudo": ["React", "Tailwindcss", "Shadcn-ui"]
+    "conteudo": [
+      "React, Tailwindcss e Shadcn-ui - Utilizados durante o desenvolvimento de um FrontEnd para um projeto real",
+      "Express, Sequelize, JWT - Utilizados no projeto 'Sistema de Login'"
+    ]
   }
 }

@@ -5,3 +5,17 @@
 *{
   box-sizing: border-box;
 }
+
+html{
+  background-color: rgb(20, 20, 22);
+}
+
+#root{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+html, body{
+  height: 100%;
+}
